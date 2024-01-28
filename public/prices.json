@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Membership",
+        "price": 29.99,
+        "features": [
+            "Access to cardio equipment",
+            "Basic weightlifting area",
+            "Locker room access"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Premium Membership",
+        "price": 49.99,
+        "features": [
+            "Access to all equipment",
+            "Group fitness classes",
+            "Sauna and spa facilities",
+            "Personal trainer sessions"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Student Membership",
+        "price": 19.99,
+        "features": [
+            "Valid student ID required",
+            "Access during off-peak hours",
+            "Limited group classes"
+        ]
+    }
+]
